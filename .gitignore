@@ -1,7 +1,9 @@
-.csv
-.dat
-.atr
-.jpg
-.jpeg
-.SIG
-.hea
+*.csv
+*.png
+*.ANN
+*.dat
+*.atr
+*.jpg
+*.jpeg
+*.SIG
+*.hea
